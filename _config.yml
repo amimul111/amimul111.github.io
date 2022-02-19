@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Amimul Ehsan
 description: Tech Lead at Guenstiger. Graduated from NIT Surathkal. Aspiring Machine Learning Engineer
-logo: IMG_20220118_160439.jpg
+logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
 show_downloads: true
